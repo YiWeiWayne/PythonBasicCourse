@@ -1,4 +1,4 @@
-# PythonBasicCourse
+# [PythonBasicCourse] (https://docs.python.org/zh-tw/3/tutorial/index.html)
 
 
 
@@ -26,7 +26,7 @@
 
 ### 2. 介紹程式基本邏輯(if-else, for, range(), match, do-while)
 
-### 3. 介紹函數與其組成元素(function, parameter, return, lambda, annotation)
+### 3. 介紹函數與其組成元素(function, parameter, return, lambda)
 
 ### 4. 串列(List)的應用(新增、排序、搜尋、堆疊)
 

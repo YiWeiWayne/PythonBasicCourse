@@ -1,0 +1,58 @@
+https://favtutor.com/blog-details/7-Python-Projects-For-Beginners
+
+01) Guessing Game 
+    In this project, we will create a program in which the system will choose a random number between any ranges defined, and then the user is given a hint to guess the number.
+    
+02) Interactive Dictionary
+    You can build an interactive dictionary using python language by just using basic concepts like JSON, functions, and conditional statements.
+    
+03) Dice Rolling Simulator
+    This python project will generate a random number each time the dice is rolled and also the user can repeat this program as long as he wants.
+
+04) Anagram Game
+    The basic idea of the project will be to read the file that contains word random words from the dictionary, shuffle it, and ask the user to guess the correct word from its anagram by giving hints.
+
+
+05) Rock, Paper, Scissors Game
+    In this program, we will use a random function for generating the random output by the computer side. The user will make the first move and then the program makes one.
+
+
+06) Hangman Game
+    Here, the user will have to guess an alphabet to complete a word, and also each user will have a limited number of chances to guess a letter.
+
+07) Tic-Tac-Toe
+08) Snake Game
+09) Number Guessing
+
+10) Mad Libs Generator
+    Mad Libs is a word game where players supply words to fill in blanks in a story or sentence, typically with funny or amusing results.
+
+
+11) Calculator
+12) Countdown Timer
+13) Value Converter
+    convert a temperature from degrees Celsius to degrees Fahrenheit or convert a date from one calendar format to another.
+
+14) Password Strength Checker
+    This type of program typically uses algorithms to evaluate the strength of a given password and provide feedback to the user on how to improve it. 
+
+15) Desktop Notifier App
+    The desktop notifier will run on your system and send you information after a fixed time interval.
+
+16) Python File Explorer
+    Tkinter is the module used in python language for adding the GUI features to our program.
+    
+17) Music Player
+18) Alarm Clock Project
+    When an alarm is set, the program randomly selects one of the saved links and plays the corresponding video. 
+
+19) Merger Sorting Project
+     Merge sorting is a sorting algorithm that works by dividing a list of items into smaller sublists, sorting each sublist, and then combining the sublists to create a final sorted list.
+     
+20) User Record Management System
+    This can include creating, modifying, and deleting user records, as well as tracking user activity, and maintaining a history of changes.
+    
+Which python project is best to start with?
+     1. Choose a topic you’re interested
+     2. Think about your goals
+     3. Start Small
